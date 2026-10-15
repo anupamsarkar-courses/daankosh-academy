@@ -8,6 +8,6 @@ A free, branded learning hub for NGO teams using Daankosh.
 - Three courses link to the published TrainerCentral Academy
 
 Repository: https://github.com/anupamsarkar-courses/daankosh-academy
-Planned GitHub Pages URL: https://anupamsarkar-courses.github.io/daankosh-academy/
+Live site: https://anupamsarkar-courses.github.io/daankosh-academy/
 
-Enable Pages in repository Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
+Pages source: branch `main`, root `/`.
